@@ -1,7 +1,7 @@
 # **Hi there** 👋
 
 ## About me 
-#### I come from the infrastructure world and I'm taking my first steps with Manual QA and programming.
+#### I'm Gustavo Almeida Villa and I come from the infrastructure world and I'm taking my first steps with Manual QA and programming.
 #### These are my contacts and my resume can be accessed on LinkedIn.
 
 
