@@ -1,6 +1,6 @@
 ##### **Hi there** 👋
 
-[Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
+![alt text](https://images.template.net/100603/small-linkedin-icon-clipart-q5ttq.jpg) [Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
 
 
 
