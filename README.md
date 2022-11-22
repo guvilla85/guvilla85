@@ -12,7 +12,7 @@
 
 [![WhatsApp](https://i.imgur.com/dtJOIlk.png) WhatsApp](https://wa.me/5491133718732)
 
-[![Gmail](https://i.imgur.com/M33v43D.png) Gmail](mailto:gu.a.villa@gmail.com)
+[![Gmail](https://i.imgur.com/M33v43D.png) Gmail](https://mailto:gu.a.villa@gmail.com)
 
 
 
