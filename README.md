@@ -10,7 +10,7 @@
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guvilla85/)
 
-[![WhatsApp](https://i.stack.imgur.com/tskMh.png) WhatsApp](https://wa.me/5491133718732)
+[![WhatsApp](https://i.imgur.com/dtJOIlk.png) WhatsApp](https://wa.me/5491133718732)
 
 [![Gmail](https://i.imgur.com/M33v43D.png) Gmail](mailto:gu.a.villa@gmail.com)
 
