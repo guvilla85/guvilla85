@@ -10,7 +10,7 @@
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guvilla85/)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) WhastApp](https://wa.me/5491133718732)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) (https://wa.me/5491133718732)
 
 
 
