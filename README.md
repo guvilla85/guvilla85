@@ -1,6 +1,7 @@
 ##### **Hi there** 👋
 
-# About me 8-)
+# About me 
+### I come from the infrastructure world and I'm taking my first steps with Manual QA and programming.
 
 
 
