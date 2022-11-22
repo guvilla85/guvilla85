@@ -16,7 +16,7 @@
 
 
 
-[![Gmail (https://i.imgur.com/M33v43D.png) gu.a.villa@gmail.com
+
 
 
 
