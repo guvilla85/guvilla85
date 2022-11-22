@@ -10,7 +10,7 @@
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guvilla85/)
 
-[![https://wa.me/5491133718732)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![WhatsApp](https://i.stack.imgur.com/tskMh.png) WhatsApp](https://wa.me/5491133718732)
 
 ![Gmail](https://i.imgur.com/M33v43D.png) Gmail (gu.a.villa@gmail.com)
 
