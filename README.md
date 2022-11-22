@@ -1,11 +1,10 @@
 ##### **Hi there** 👋
 
-![alt text]([Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn -> Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
 &nbsp;
 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guvilla85/)
 
 
 
