@@ -12,7 +12,10 @@
 
 [![WhatsApp](https://i.stack.imgur.com/tskMh.png) WhatsApp](https://wa.me/5491133718732)
 
-![Gmail](https://i.imgur.com/M33v43D.png) Gmail (gu.a.villa@gmail.com)
+[![Gmail](https://i.imgur.com/M33v43D.png) Gmail](gu.a.villa@gmail.com)
+
+
+
 
 <!--
 **guvilla85/guvilla85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
