@@ -12,7 +12,7 @@
 
 [![https://wa.me/5491133718732)](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-![Gmail](https://imgur.com/a/jyuQPTt)
+![Gmail](https://i.imgur.com/M33v43D.png) LinkedIn](gu.a.villa@gmail.com)
 
 <!--
 **guvilla85/guvilla85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
