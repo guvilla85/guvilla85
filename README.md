@@ -2,15 +2,15 @@
 
 ## About me 
 #### I come from the infrastructure world and I'm taking my first steps with Manual QA and programming.
+#### These are my contacts and my resume can be accessed on LinkedIn.
 
 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn -> Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
 &nbsp;
 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/guvilla85/)
 
-
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
 
