@@ -1,25 +1,14 @@
 ##### **Hi there** 👋
 
-![alt text](
-[Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
+![alt text]([Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
 &nbsp;
+
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
 
 
 
-<code>
-
-<html>
-	<head>
-
-	</head>
-	<body>
-	Aquí va el contenido
-	</body>
-</html>
-
-</code>
 
 
 <!--
