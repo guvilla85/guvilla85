@@ -1,6 +1,7 @@
 ##### **Hi there** 👋
 
-![alt text](https://images.template.net/100603/small-linkedin-icon-clipart-q5ttq.jpg) [Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
+![alt text](
+https://aux.iconspalace.com/uploads/linkedin-icon-256-1972883195.png) [Linkedin - Gustavo](https://www.linkedin.com/in/gustavo-almeida-villa-76117037/)
 
 
 
@@ -8,7 +9,7 @@
 
 <html>
 	<head>
-		<title>Mi página de ejemplo</title>
+
 	</head>
 	<body>
 	Aquí va el contenido
