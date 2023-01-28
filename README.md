@@ -1,7 +1,8 @@
 # **Hi there** 👋
 
 ## About me 
-#### I'm Gustavo Almeida Villa and I come from the infrastructure world and I'm taking my first steps with Manual testing (QA Manual) and programming python.
+#### I'm Gustavo Almeida Villa and I come from the infrastructure and Cybersecurity world and I'm taking my first steps with Manual testing (QA Manual) and programming python.
+#### I'm a big fan of astronomy and issues related to the Universe.
 #### These are my contacts and my resume can be accessed on LinkedIn.
 
 
