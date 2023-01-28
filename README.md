@@ -21,8 +21,8 @@
 
 # **Courses completed**
 
-## **Microsoft Azure** - 2 total hours
-#### **Institute:** Udemy
+## **Microsoft Azure** - 2 total hours <br />
+#### **Institute:** Udemy <br />
 #### **Title (pt-br):** Azure para Iniciantes 2021
 #### **Title (esp):** Azure para principiantes 2021
 #### **Title (eng):** Azure for Starters 2021
@@ -31,7 +31,7 @@
 #### Date: Sept, 12, 2021
 [#### Link of certificate completion](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
-#### Link of certificate completion: https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
+
 
 
 ## QA Manual
