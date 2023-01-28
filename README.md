@@ -34,7 +34,7 @@
       View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
   
   <details>
-  <summary>M </summary> <br/ <br/> 
+  
       Title (pt-br): xxxxxxxxxxxxx
       Title (esp): xxxxxxxxxxxxx
       Title (eng): xxxxxxxxxxxxx
