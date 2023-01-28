@@ -15,9 +15,27 @@
 [![Gmail](https://i.imgur.com/M33v43D.png) Gmail](https://mailto:gu.a.villa@gmail.com)
 
 
+# **Books read **
+
+
 # **Courses completed**
 
-## Cloud 
+## Microsoft Azure 
+#### Institute: Udemy
+#### Institute: Udemy
+#### Description: Overview about Microsoft Azure. Create VM
+#### Lenght: 2 total hours
+#### Date: Sept, 12, 2021
+#### Link of certificate completion:
+
+## QA Manual
+
+## Cybersecurity
+
+## Amazon AWS 
+
+
+## Language Programming
 
 
 
