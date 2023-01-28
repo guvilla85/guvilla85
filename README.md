@@ -22,7 +22,7 @@
 # **Courses completed**
 
 <details>
-  <summary>Microsoft Azure - 2 total hours <br /> </summary>
+  <summary>Microsoft Azure - 2 total hours <br/> <br/> <br/> </summary>
       Institute: Udemy <br/>
       Title (pt-br): Azure para Iniciantes 2021 <br/>
       Title (esp): Azure para principiantes 2021 <br/>
