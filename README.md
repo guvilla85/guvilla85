@@ -22,6 +22,9 @@
 
 ## **Microsoft Azure** - 2 total hours
 #### **Institute:** Udemy
+#### **Title (pt-br):** Azure para Iniciantes 2021
+#### **Title (esp):** Azure para principiantes 2021
+#### **Title (eng):** Azure for Starters 2021
 #### Description: Overview about Microsoft Azure. Create VM
 #### Lenght: 2 hours
 #### Date: Sept, 12, 2021
