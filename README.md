@@ -28,6 +28,13 @@
 #### Date: Sept, 12, 2021
 #### Link of certificate completion:
 
+
+1. First item  [< two spaces for the linebreak]
+◦ subitem1  [< two spaces for the linebreak]
+◦ subitem2
+2. Second item
+
+
 ## QA Manual
 
 ## Cybersecurity
