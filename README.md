@@ -25,34 +25,23 @@
 
 <details>
   <summary>Azure for Starters 2021</summary>
-    Title (pt-br): Azure para Iniciantes 2021  
-    Title (esp): Azure para principiantes 2021   
-    Institute:Udemy       
-    Description: Overview about Microsoft Azure. VM creation      
-    Lenght: 2 hours    
-    Date: Sept, 12, 2021  
+    Title (pt-br): Azure para Iniciantes 2021;  
+    Title (esp): Azure para principiantes 2021; 
+    Institute:Udemy;      
+    Description: Overview about Microsoft Azure. VM creation;     
+    Lenght: 2 hours;    
+    Date: Sept, 12, 2021;
  </details>
 [Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
-
-<details>
-  <summary>Azure for Starters 2021</summary>
-  
-  
-    Title (pt-br): Azure para Iniciantes 2021  
-    Title (esp): Azure para principiantes 2021   
-    Institute:Udemy       
-    Description: Overview about Microsoft Azure. VM creation      
-    Lenght: 2 hours    
-    Date: Sept, 12, 2021  
-</details>
-
-
 <details>
   <summary>Azure Fundamentlas</summary>
-    Title (pt-br): Azure para Iniciantes 2021;               Title (esp): Azure para principiantes 2021;                          Institute: Educacion IT;                                  Description: Overview about Microsoft Azure. VM creation    
-                                                Lenght: 2 hours    
-                                                     Date: Sept, 12, 2021          
+   Title (pt-br): Azure para Iniciantes 2021;               
+   Title (esp): Azure para principiantes 2021;                          
+   Institute: Educacion IT;                                  
+   Description: Overview about Microsoft Azure. VM creation    
+   Lenght: 2 hours    
+   Date: Sept, 12, 2021          
 </details>
 [Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
