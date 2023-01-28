@@ -37,10 +37,7 @@
 
 <details>
   <summary>Azure Fundamentlas</summary>
-    Title (pt-br): Azure para Iniciantes 2021  
-               Title (esp): Azure para principiantes 2021   
-                          Institute: Educacion IT   
-                                  Description: Overview about Microsoft Azure. VM creation      
+    Title (pt-br): Azure para Iniciantes 2021;               Title (esp): Azure para principiantes 2021;                          Institute: Educacion IT;                                  Description: Overview about Microsoft Azure. VM creation    
                                                 Lenght: 2 hours    
                                                      Date: Sept, 12, 2021          
 </details>
