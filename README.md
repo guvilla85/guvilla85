@@ -45,16 +45,6 @@
     Description: Overview about Microsoft Azure. VM creation      
     Lenght: 2 hours    
     Date: Sept, 12, 2021  
-  2. Bar
-     * Baz
-     * Qux
-
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
 
 
