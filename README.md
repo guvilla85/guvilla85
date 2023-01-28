@@ -24,9 +24,6 @@
 ## **Microsoft Azure - 2 total hours**
 
 <details>
-<summary>Microsoft Azure</summary>
-
-<details>
   <summary>Azure for Starters 2021</summary>
     Title (pt-br): Azure para Iniciantes 2021;  
     Title (esp): Azure para principiantes 2021; 
@@ -50,11 +47,6 @@
    Instructors: André Iacono
 </details>
 [Certificate][https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg]
-
-  
-</details>
-
-  
   
   
 ## QA Manual
