@@ -31,6 +31,12 @@
 #### Date: Sept, 12, 2021
 [#### Link of certificate completion](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
+1\. Work (00:10:00)  
+    1\. Mail letter (00:05:00, Est. 00:03:00)  
+      Send letter to Foo Bar  
+2\. Personal (00:02:00)
+
+
 
 
 
