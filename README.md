@@ -33,40 +33,24 @@
       Date: Sept, 12, 2021
       View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
 
-</details>
-
-
-
-
 <details>
-<summary>head 1</summary>
 
-    <details>
-    <summary>head 1.1</summary>
-    content
-    </details>
-
+      Title (pt-br): xxxxxxxxxxxxx
+      Title (esp): xxxxxxxxxxxxx
+      Title (eng): xxxxxxxxxxxxx
+      Institute: xxxxxxxxxxxxx
+      Description: xxxxxxxxxxxxx
+      Lenght: xxxxxxxxxxxxx
+      Date: xxxxxxxxxxxxx
+      View certificate completion -> xxxxxxxxxxxxx
+   
+  
 </details>
 
 
 
-<details>
-  
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Code
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
-</details>
+
 
 
 
