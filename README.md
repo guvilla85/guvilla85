@@ -44,7 +44,7 @@
       Date: xxxxxxxxxxxxx
       View certificate completion -> xxxxxxxxxxxxx
    
-  </details>
+  
 </details>
 
 
