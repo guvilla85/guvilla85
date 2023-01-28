@@ -22,7 +22,7 @@
 # **Courses completed**
 
 <details>
-  <summary>head 1 Microsoft Azure - 2 total hours <br/> <br/> </summary>
+  <summary>Microsoft Azure - 2 total hours</summary> <br/> <br/> 
       Institute: Udemy <br/>
       Title (pt-br): Azure para Iniciantes 2021 <br/>
       Title (esp): Azure para principiantes 2021 <br/>
@@ -30,7 +30,7 @@
       Description: Overview about Microsoft Azure. VM creation <br/>
       Lenght: 2 hours <br/>
       Date: Sept, 12, 2021 <br/>
-      [View certificate completion](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg) <br/>
+      View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg <br/>
 </details>
 
 
