@@ -15,7 +15,8 @@
 
 [![Gmail](https://i.imgur.com/M33v43D.png) Gmail](https://mailto:gu.a.villa@gmail.com)
 
-[CV](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
+[![CV pdf](https://live.staticflickr.com/65535/52654402582_a1ee71f48e_m.jpg) CV pdf](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
+
 
 
 
