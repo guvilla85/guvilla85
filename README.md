@@ -29,22 +29,16 @@
       Title (esp): Azure para principiantes 2021
   
       Title (eng): Azure for Starters 2021
+      
       Institute:Udemy 
+      
       Description: Overview about Microsoft Azure. VM creation <br/>
-      Lenght: 2 hours
-      Date: Sept, 12, 2021
-      View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
-  
-      Title (pt-br): xxxxxxxxxxxxx
-      Title (esp): xxxxxxxxxxxxx
-      Title (eng): xxxxxxxxxxxxx
-      Institute: xxxxxxxxxxxxx
-      Description: xxxxxxxxxxxxx
-      Lenght: xxxxxxxxxxxxx
-      Date: xxxxxxxxxxxxx
-      View certificate completion -> xxxxxxxxxxxxx
-   
-  
+      
+       Lenght: 2 hours
+     
+       Date: Sept, 12, 2021
+     
+       View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg  
 </details>
 
 
