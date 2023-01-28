@@ -22,7 +22,7 @@
 # **Courses completed**
 
 <details>
-  <summary>Microsoft Azure - 2 total hours</summary> <br/> 
+  <summary>Microsoft Azure - 2 total hours</summary> <br/ <br/> 
       
       Title (pt-br): Azure para Iniciantes 2021
       Title (esp): Azure para principiantes 2021
@@ -33,8 +33,7 @@
       Date: Sept, 12, 2021
       View certificate completion -> https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
 
-  <details>
-
+  
       Title (pt-br): xxxxxxxxxxxxx
       Title (esp): xxxxxxxxxxxxx
       Title (eng): xxxxxxxxxxxxx
@@ -44,7 +43,7 @@
       Date: xxxxxxxxxxxxx
       View certificate completion -> xxxxxxxxxxxxx
    
-  </details>
+  
 </details>
 
 
