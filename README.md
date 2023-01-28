@@ -29,7 +29,7 @@
 Description: Overview about Microsoft Azure. VM creation <br/>
 Lenght: 2 hours <br/>
 Date: Sept, 12, 2021 <br/>
-[#### Link of certificate completion](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg) <br/>
+[#### View certificate completion](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg) <br/>
 
 
 
