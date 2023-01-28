@@ -33,7 +33,7 @@
     Date: Sept, 12, 2021;
     Instructors: André Iacono
  </details>
-[Certificate][https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg]
+[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg) <br>
 
   
 <details>
@@ -46,7 +46,7 @@
    Date: Sept, 12, 2021 
    Instructors: André Iacono
 </details>
-[Certificate][https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg]
+[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
   
   
 ## QA Manual
