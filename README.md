@@ -31,13 +31,25 @@
     Description: Overview about Microsoft Azure. VM creation      
     Lenght: 2 hours    
     Date: Sept, 12, 2021  
+ </details>
+[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
+
+<details>
+  <summary>Click me</summary>
+  
   ### Heading
   1. Foo
   2. Bar
      * Baz
      * Qux
+
+  ### Some Code
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
-[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
 
 <details>
