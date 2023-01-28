@@ -21,12 +21,12 @@
 # **Courses completed**
 
 ## **Microsoft Azure** - 2 total hours
-#### \**Institute:** Udemy
-#### \Institute: Udemy
-#### \Description: Overview about Microsoft Azure. Create VM
-#### \Lenght: 2 hours
-#### \Date: Sept, 12, 2021
-#### \Link of certificate completion: https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
+#### **Institute:** Udemy
+#### Institute: Udemy
+#### Description: Overview about Microsoft Azure. Create VM
+#### Lenght: 2 hours
+#### Date: Sept, 12, 2021
+#### Link of certificate completion: https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg
 
 
 ## QA Manual
