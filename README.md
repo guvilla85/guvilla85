@@ -21,7 +21,8 @@
 
 # **Courses completed**
 
-## **Microsoft Azure - 2 total hours**
+<details>
+<summary>## **Microsoft Azure - 2 total hours**</summary>
 
 <details>
   <summary>Azure for Starters 2021</summary>
@@ -47,7 +48,11 @@
 </details>
 [Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
 
+</details>
 
+  
+  
+  
 ## QA Manual
 
 ## Cybersecurity
