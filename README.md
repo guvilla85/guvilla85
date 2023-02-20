@@ -44,13 +44,25 @@
    Institute: Educacion IT;                                  
    Description: Overview about Microsoft Azure. VM creation    
    Lenght: 2 hours    
-   Date: Sept, 12, 2021 
+   Date: 09/12/2021 
    Instructors: André Iacono
 </details>
 [Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
   
   
-## QA Manual
+## **QA Manual - 26 total hours**
+
+<details>
+  <summary>Testing QA Manual</summary>
+   Title (pt-br):Testing QA Manual;               
+   Title (esp):Testing QA Manual;                          
+   Institute: Coderhouse;                                  
+   Description: Overview about Microsoft Azure. VM creation    
+   Lenght: 26 hours    
+   Date: Jan/31/2023 
+   Instructors: Constanza Llanos
+</details>
+[Certificate](https://live.staticflickr.com/65535/52700772569_7a5593acbc_b.jpg)
 
 ## Cybersecurity
 
