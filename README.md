@@ -38,16 +38,16 @@
 
   
 <details>
-  <summary>Azure Fundamentlas</summary>
-   Title (pt-br): Azure para Iniciantes 2021;               
-   Title (esp): Azure para principiantes 2021;                          
+  <summary>Azure Fundamentals</summary>
+   Title (pt-br):               
+   Title (esp):                          
    Institute: Educacion IT;                                  
-   Description: Overview about Microsoft Azure. VM creation    
-   Lenght: 2 hours    
-   Date: 09/12/2021 
-   Instructors: André Iacono
+   Description:    
+   Lenght:   
+   Date:
+   Instructors: 
 </details>
-[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg)
+
   
   
 ## **QA Manual - 26 total hours**
