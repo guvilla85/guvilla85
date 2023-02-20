@@ -57,9 +57,9 @@
    Title (pt-br):Testing QA Manual;               
    Title (esp):Testing QA Manual;                          
    Institute: Coderhouse;                                  
-   Description: Overview about Microsoft Azure. VM creation    
-   Lenght: 26 hours    
-   Date: Jan/31/2023 
+   Description: 1. ¿Qué es el testing? / 2. ¿Qué significa ser un Tester? / 3. ¿Cuáles son los distintos tipos de testing? / 4. El testing en el desarrollo de software / 5. Testing en Agilidad / 6. Defectos en el testing / 7. ¿Cómo se prepara para hacer las pruebas? / 8. Ejecución de pruebas / 9. Pruebas de aplicaciones web / 10. Pruebas de aplicaciones mobile / 11. API Testing / 12. Pruebas No funcionales / 13. Proyección profesional;;    
+   Lenght: 26 hours;    
+   Date: Jan/31/2023; 
    Instructors: Constanza Llanos
 </details>
 [Certificate](https://live.staticflickr.com/65535/52700772569_7a5593acbc_b.jpg)
