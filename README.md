@@ -18,7 +18,7 @@
 
 [![Gmail](https://i.imgur.com/M33v43D.png) Gmail](https://mailto:gu.a.villa@gmail.com)
 
-[![arg](https://live.staticflickr.com/65535/53700572746_a5edfd7b87_t.jpg) [![CV pdf - Español](https://live.staticflickr.com/65535/53699679857_e17ed85e1e_s.jpg) CV pdf - Español](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
+![arg](https://live.staticflickr.com/65535/53700572746_a5edfd7b87_t.jpg) [![CV pdf - Español](https://live.staticflickr.com/65535/53699679857_e17ed85e1e_s.jpg) CV pdf - Español](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
 
 
 #### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
