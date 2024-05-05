@@ -25,16 +25,14 @@
 ## **Microsoft Azure - 2 total hours**
 
 <details>
-  <summary>Azure for Starters 2021</summary>
-    Title (pt-br): Azure para Iniciantes 2021;  
-    Title (esp): Azure para principiantes 2021; 
+  <summary>Azure for Starters</summary>       
     Institute:Udemy;      
     Description: Overview about Microsoft Azure. VM creation;     
     Lenght: 2 hours;    
     Date: Sept, 12, 2021;
     Instructors: André Iacono
  </details>
-[Certificate](https://live.staticflickr.com/65535/52654388531_7f4863d10a_b.jpg) <br>
+[Certificate](https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg) <br>
 
   
 <details>
