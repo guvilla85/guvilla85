@@ -29,7 +29,7 @@
 ## **Microsoft Azure - 2 total hours**
 
 <details>
-  <summary>Azure for Starters | Udemy</summary>       
+  <summary>Azure for Starters | Udemy | Lenght: 2 hours</summary>       
     Institute:Udemy;      
     Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation;     
     Lenght: 2 hours;
@@ -54,7 +54,7 @@
 ## **QA Manual - 26 total hours**
 
 <details>
-  <summary>Testing QA Manual | Coderhouse</summary>       
+  <summary>Testing QA Manual | Coderhouse | Lenght: 26 hours</summary>       
    Institute: Coderhouse;                                  
    Description / Course content: 1. ¿Qué es el testing? / 2. ¿Qué significa ser un Tester? / 3. ¿Cuáles son los distintos tipos de testing? / 4. El testing en el desarrollo de software / 5. Testing en Agilidad / 6. Defectos en el testing / 7. ¿Cómo se prepara para hacer las pruebas? / 8. Ejecución de pruebas / 9. Pruebas de aplicaciones web / 10. Pruebas de aplicaciones mobile / 11. API Testing / 12. Pruebas No funcionales / 13. Proyección profesional;;    
    Lenght: 26 hours;    
