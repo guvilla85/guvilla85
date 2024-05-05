@@ -5,7 +5,7 @@
 #### I'm a big fan of astronomy and issues related to the Universe.
 #### These are my contacts and my resume can be accessed on LinkedIn.
 
-#### I am Gustavo Almeida Villa and I am a specialist in Computer Networks, currently focusing on the areas of cyber security, cloud computing infrastructure and IAM, scripting automation (shell script, power shell) and programming languages such as python and java script. I'm also interested in AI and machine #### learning tools and how to provide security for them.
+#### I am Gustavo Almeida Villa and I am a specialist in Computer Networks, currently focusing on the areas of cyber security, cloud computing infrastructure and IAM, scripting automation (shell script, power shell) and programming languages such as python and java script. I'm also interested in AI and machine learning tools and how to provide security for them.
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
