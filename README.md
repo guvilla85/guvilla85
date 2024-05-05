@@ -61,7 +61,7 @@
    Date: Jan/31/2023; 
    Instructors: Constanza Llanos
 </details>
-[Certificate](https://live.staticflickr.com/65535/52700772569_7a5593acbc_b.jpg)
+[Certificate](https://www.coderhouse.com/ar/certificados/63f284247ec8c4000f7be74b)
 
 ## Cybersecurity
 
