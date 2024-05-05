@@ -18,7 +18,7 @@
 
 [![Gmail](https://i.imgur.com/M33v43D.png) Gmail](https://mailto:gu.a.villa@gmail.com)
 
-[![CV pdf](https://live.staticflickr.com/65535/52654402582_a1ee71f48e_m.jpg) CV pdf](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
+[![CV pdf] Español(https://live.staticflickr.com/65535/53699679857_e17ed85e1e_s.jpg) CV pdf](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
 
 
 #### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
@@ -40,9 +40,7 @@
 
   
 <details>
-  <summary>Azure Fundamentals</summary>
-   Title (pt-br):               
-   Title (esp):                          
+  <summary>Azure Fundamentals</summary>               
    Institute: Educacion IT;                                  
    Description:    
    Lenght:   
@@ -55,9 +53,7 @@
 ## **QA Manual - 26 total hours**
 
 <details>
-  <summary>Testing QA Manual</summary>
-   Title (pt-br):Testing QA Manual;               
-   Title (esp):Testing QA Manual;                          
+  <summary>Testing QA Manual</summary>       
    Institute: Coderhouse;                                  
    Description: 1. ¿Qué es el testing? / 2. ¿Qué significa ser un Tester? / 3. ¿Cuáles son los distintos tipos de testing? / 4. El testing en el desarrollo de software / 5. Testing en Agilidad / 6. Defectos en el testing / 7. ¿Cómo se prepara para hacer las pruebas? / 8. Ejecución de pruebas / 9. Pruebas de aplicaciones web / 10. Pruebas de aplicaciones mobile / 11. API Testing / 12. Pruebas No funcionales / 13. Proyección profesional;;    
    Lenght: 26 hours;    
