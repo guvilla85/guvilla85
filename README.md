@@ -31,8 +31,9 @@
 <details>
   <summary>Azure for Starters</summary>       
     Institute:Udemy;      
-    Description: Overview about Microsoft Azure. VM creation;     
-    Lenght: 2 hours;    
+    Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation;     
+    Lenght: 2 hours;
+    Language: Brazilian Portuguese; 
     Date: Sept, 12, 2021;
     Instructors: André Iacono
  </details>
