@@ -1,11 +1,12 @@
 # **Hi there** 👋
 
 ## About me 
-#### I'm Gustavo Almeida Villa and I come from the infrastructure and Cybersecurity world and I'm taking my first steps with Manual testing (QA Manual) and programming python.
-#### I'm a big fan of astronomy and issues related to the Universe.
+#### I am Gustavo Almeida Villa and I am a specialist in Computer Networks, currently focusing on the areas of cyber security, cloud computing infrastructure and IAM, scripting automation (shell script, power shell) and programming languages such as python and java script. I'm also interested in AI and machine learning tools and how to provide security for them.
+#### I'm a big fan of astronomy and issues related to the Universe, history of civilizations and general history and secret societies
+
 #### These are my contacts and my resume can be accessed on LinkedIn.
 
-#### I am Gustavo Almeida Villa and I am a specialist in Computer Networks, currently focusing on the areas of cyber security, cloud computing infrastructure and IAM, scripting automation (shell script, power shell) and programming languages such as python and java script. I'm also interested in AI and machine learning tools and how to provide security for them.
+
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
@@ -20,6 +21,7 @@
 [![CV pdf](https://live.staticflickr.com/65535/52654402582_a1ee71f48e_m.jpg) CV pdf](https://drive.google.com/file/d/1qjYAWrdrOMRlxB3RzkuFRXZanwKPofGa/view?usp=share_link)
 
 
+#### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
 
 
 # **Courses completed**
