@@ -74,8 +74,6 @@
 
 ## Programming Language 
 
-# **Books read**
-
 # **Certifications**
 
 
