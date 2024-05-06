@@ -26,7 +26,7 @@
 
 # **Courses completed**
 
-## **Microsoft Azure Fundamentals - 2 total hours**
+## **Microsoft Azure Fundamentals - 17 total hours**
 
 <details>
   <summary>Azure for Starters | Udemy | Lenght: 2 hours</summary>       
@@ -49,7 +49,7 @@
    Date: Mar, 11, 2023;
    Instructors: Emiliano Flecha
 </details>
-
+[Certificate](https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg) <br>
   
   
 ## **QA Manual - 26 total hours**
