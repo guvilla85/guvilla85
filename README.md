@@ -41,7 +41,7 @@
 
   
 <details>
-  <summary>Azure AZ-900 Fundamentals | Educacion IT</summary>               
+  <summary>Azure AZ-900 Fundamentals | Educacion IT Lenght: 15 hours</summary>               
    Institute: Educacion IT;                                  
    Description: Fundamentos de la Nube, IaaS, PaaS y SaaS, Modelos de nube pública, privada e híbrida, Servicios principales de Azure, Componentes y Arquitectura, Herramientas de Administración, Seguridad, Privacidad y Confianza, Azure Identity, Trabajar con monitoreos e informes, Planificación y gestión de costos    
    Lenght: 15 hours;
