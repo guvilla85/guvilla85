@@ -41,12 +41,13 @@
 
   
 <details>
-  <summary>Azure Fundamentals | Educacion IT</summary>               
+  <summary>Azure AZ-900 Fundamentals | Educacion IT</summary>               
    Institute: Educacion IT;                                  
-   Description:    
-   Lenght:   
-   Date:
-   Instructors: 
+   Description: Fundamentos de la Nube, IaaS, PaaS y SaaS, Modelos de nube pública, privada e híbrida, Servicios principales de Azure, Componentes y Arquitectura, Herramientas de Administración, Seguridad, Privacidad y Confianza, Azure Identity, Trabajar con monitoreos e informes, Planificación y gestión de costos    
+   Lenght: 15 hours;
+   Language: Spanish Argentina; 
+   Date: Mar, 11, 2023;
+   Instructors: Emiliano Flecha
 </details>
 
   
