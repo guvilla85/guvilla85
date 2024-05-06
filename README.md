@@ -26,7 +26,7 @@
 
 # **Courses completed**
 
-## **Microsoft Azure - 2 total hours**
+## **Microsoft Azure Fundalmentals - 2 total hours**
 
 <details>
   <summary>Azure for Starters | Udemy | Lenght: 2 hours</summary>       
