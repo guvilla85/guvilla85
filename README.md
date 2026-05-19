@@ -52,13 +52,19 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 
 <details>
-  <summary>🎓 Clique para ver os detalhes do curso</summary>
+  <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
+  <br
 
     + Módulo 1: Introdução ao tema
     
     + Módulo 2: Conceitos avançados
     
     + Módulo 3: Projeto prático
+
+    <ul>
+  <li>Seu primeiro item</li>
+  <li>Seu segundo item</li>
+</ul>
 
 </details>
 
