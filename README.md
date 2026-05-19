@@ -37,10 +37,13 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
   <br>
 
-  *   **Curso Web Moderno Completo com JavaScript** — Cod3r Cursos<br>
-      *   *Status:* Concluído (2025)<br>
-      *   *Carga Horária:* 97 horas<br>
-      *   *Principais aprendizados:* JS, Node, React, Webpack.<br>
+  *   **Curso Web Moderno Completo com JavaScript** — Cod3r Cursos
+  *   
+      *   *Status:* Concluído (2025)
+      *   
+      *   *Carga Horária:* 97 horas
+      *   
+      *   *Principais aprendizados:* JS, Node, React, Webpack.
   *   **CSS Grids e Flexbox de verdade** — Origamid
       *   *Status:* Em andamento
       *   *Carga Horária:* 12 horas
