@@ -26,6 +26,21 @@
 
 # **Courses completed**
 
+
+details>
+  <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
+  <br>
+
+  *   **Curso Web Moderno Completo com JavaScript** — Cod3r Cursos
+      *   *Status:* Concluído (2025)
+      *   *Carga Horária:* 97 horas
+      *   *Principais aprendizados:* JS, Node, React, Webpack.
+  *   **CSS Grids e Flexbox de verdade** — Origamid
+      *   *Status:* Em andamento
+      *   *Carga Horária:* 12 horas
+
+</details>
+
 ## **Microsoft Azure Fundamentals - 17 total hours**
 
 <details>
