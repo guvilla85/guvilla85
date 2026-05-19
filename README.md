@@ -60,8 +60,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     <b>Azure for Starters</b> - André Iacono
     
     <li><i>Institute:Udemy</i></li>
-    
-    
+        
     <li>Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
     <li>Lenght: 2 hours</li>
     <li>Status: Finished (Sept, 2021)</li>
@@ -70,7 +69,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     <li>Seu segundo item da lista</li>
     <li>Seu terceiro item da lista</li>
 
-    <!-- Círculo vacío (Circle) -->
+    
 <ul style="list-style-type: circle;">
   <li>Elemento 1</li>
   <li>Elemento 2</li>
