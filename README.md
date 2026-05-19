@@ -62,7 +62,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     + Módulo 3: Projeto prático
 
     <ul>
-  <li>Seu primeiro item</li>
+  <li><b>Seu primeiro item<\b></li>
   <li>Seu segundo item</li>
 </ul>
 
