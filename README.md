@@ -59,10 +59,8 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <div style="margin-inline: 25px;">
     <b>Azure for Starters</b> - André Iacono
     
-    -- Círculo vacío (Circle) -->
-    <ul style="list-style-type: circle;">
-    <li><i>Institute:Udemy</i>i></li>
-    </ul>
+    <li><i>Institute:Udemy</i></li>
+    
     
     <li>Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
     <li>Lenght: 2 hours</li>
@@ -77,6 +75,9 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <li>Elemento 1</li>
   <li>Elemento 2</li>
 </ul>
+
+
+
   </div>
 </ul>
   
