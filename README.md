@@ -50,6 +50,18 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 </details>
 
+
+<details>
+  <summary>🎓 Clique para ver os detalhes do curso</summary>
+
+  * **Módulo 1:** Introdução ao tema  
+    Este é um subtexto com dois espaços no final para quebrar a linha.
+  * **Módulo 2:** Conceitos avançados
+  * **Módulo 3:** Projeto prático
+
+</details>
+
+
 <details>
   <summary><b>☕ Programação Back-End (Clique para expandir)</b></summary>
   <br>
