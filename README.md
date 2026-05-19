@@ -71,6 +71,24 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 
 
+<details>
+  <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
+  
+  <!-- Alterado para margin-left e adicionado padding para alinhar com o summary -->
+  <div style="margin-left: 20px; margin-top: 10px;">
+    <b>Azure for Starters</b> - André Iacono    
+    
+    <ul style="margin-top: 5px;">
+      <li><i>Institute:</i> Udemy</li>
+      <li><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
+      <li><b>Length:</b> 2 hours</li>
+      <li><b>Status:</b> Finished (Sept, 2021)</li>
+      <li><b>Language:</b> Brazilian Portuguese</li>
+      <li><b>Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">Link do Certificado</a></li>
+    </ul>
+  </div>
+</details>
+
 
 
 
