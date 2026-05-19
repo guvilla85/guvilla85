@@ -24,8 +24,12 @@
 #### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies 🌱. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
 
 
-# **Courses completed**
 
+# 🎓 Meus Treinamentos e Certificações
+
+Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), focados no meu desenvolvimento profissional.
+
+---
 
 ## 💻 Cursos da Udemy
 
@@ -55,6 +59,31 @@
       *   *Status:* Concluído (2025)
 
 </details>
+
+
+<details>
+  <summary><b>☕ Azure (Clique para expandir)</b></summary>
+  <br>
+
+  *   **Azure for Starters** — André Iacono
+      *   *Status:* Concluído (2021)
+      *   *Carga Horária:* 2 hours
+      *   *Certificado:* [https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg](https://www.udemy.com)
+  *   **Formação Node.js** — Guia do Programador
+      *   *Status:* Concluído (2025)
+
+</details>
+
+
+
+
+
+
+
+
+
+
+# **Courses completed**
 
 ## **Microsoft Azure Fundamentals - 17 total hours**
 
