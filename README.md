@@ -81,9 +81,13 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <br>
 
   *   ** Azure for Starters ** — André Iacono
+  *   
       *   * Plataform: * Udemy
+          * 
       *   * Status: * Concluído (2021)
+          * 
       *   *Carga Horária:* 2 hours
+      *   
       *   *Certificado:* [https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/)
   *   **Formação Node.js** — Guia do Programador
       *   *Status:* Concluído (2025)
