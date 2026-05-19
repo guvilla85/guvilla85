@@ -78,7 +78,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   *   **Azure fundamental** — Andre Iacono, Udemy
       *   *✅ Status:* Concluído (2021)
       *   *⌛ Carga Horária:* 54 horas
-      *   <li><b>📝 Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
+      *   <b>📝 Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation
       *   *📜 <b>Certificado:</b>* [Link do Certificado](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece)
   *   **Formação Node.js** — Guia do Programador
       *   *Status:* Concluído (2025)
