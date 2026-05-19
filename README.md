@@ -54,10 +54,16 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 <details>
   <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
+  
 <ul>
   <div style="margin-inline: 25px;">
     <li><b>Azure for Starters</b> - André Iacono</li>
-    <li>Institute:Udemy</li>
+    
+    -- Círculo vacío (Circle) -->
+    <ul style="list-style-type: circle;">
+    <li><i>Institute:Udemy</i>i></li>
+    </ul>
+    
     <li>Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
     <li>Lenght: 2 hours</li>
     <li>Status: Finished (Sept, 2021)</li>
@@ -65,6 +71,12 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     <li>Certificado: [https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/)</li>
     <li>Seu segundo item da lista</li>
     <li>Seu terceiro item da lista</li>
+
+    <!-- Círculo vacío (Circle) -->
+<ul style="list-style-type: circle;">
+  <li>Elemento 1</li>
+  <li>Elemento 2</li>
+</ul>
   </div>
 </ul>
   
