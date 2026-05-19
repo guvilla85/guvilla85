@@ -31,7 +31,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 ---
 
-## 💻 Cursos da Udemy
+## 💻 Azure
 
 <details>
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
@@ -66,9 +66,10 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <br>
 
   *   **Azure for Starters** — André Iacono
+      *   *Plataform:* Udemy
       *   *Status:* Concluído (2021)
       *   *Carga Horária:* 2 hours
-      *   *Certificado:* [https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg](https://www.udemy.com)
+      *   *Certificado:* [https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/](https://www.udemy.com)
   *   **Formação Node.js** — Guia do Programador
       *   *Status:* Concluído (2025)
 
