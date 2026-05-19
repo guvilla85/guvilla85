@@ -70,17 +70,11 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     <li>Seu terceiro item da lista</li>
 
     
-<ul style="list-style-type: circle;">
-  <li>Elemento 1</li>
-  <li>Elemento 2</li>
-</ul>
-
-
-
   </div>
 </ul>
   
 </details>
+
 
 
 <details>
