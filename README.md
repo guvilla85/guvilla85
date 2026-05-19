@@ -55,9 +55,9 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 <details>
   <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
-  
-  <div style="margin-left: 25px; margin-top: 15px;">
-    <strong>Azure for Starters</strong> - André Iacono
+  <br>
+  <div style="margin-left: 25px; margin-top: 25px;">
+    <b>Azure for Starters</b> - André Iacono
     
     <ul style="list-style-type: disc; margin-top: 10px;">
       <li><i>Institute:</i> Udemy</li>
