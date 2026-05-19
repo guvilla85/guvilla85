@@ -75,10 +75,10 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <summary><b>☕ Azure (Clique para expandir)</b></summary>
   <br>
    <b>Azure for Starters</b> — Andre Iacono, Udemy
-   <li><i><b>✅ Status:* Concluído (2021)</li></i></b>   
-   ⌛<li><i><b>Carga Horária: 54 horas</li></i></b>     
-   📝 <li><i><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li></i></b>
-   📜 <li><i><b>Certificado:</b>* [Link do Certificado](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece)</li></i></b>
+   <li><i>✅ Status:* Concluído (2021)</li></i>   
+   <li><i>⌛ Carga Horária: 54 horas</li></i>     
+   <li><i>📝 Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li></i>
+   <li><i>📜 Certificado:</b>* [Link do Certificado](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece)</li></i>
    
         
   *   **Formação Node.js** — Guia do Programador
