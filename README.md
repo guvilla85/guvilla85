@@ -58,6 +58,15 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
     <li>Seu primeiro item</li>
     <li>Seu segundo item</li>
   </ul>
+
+<div style="margin-inline: 40px;">
+
+* Seu primeiro item da lista
+* Seu segundo item da lista
+* Seu terceiro item da lista
+
+</div>
+  
 </details>
 
 
