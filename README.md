@@ -56,7 +56,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
 <ul>
   <div style="margin-inline: 25px;">
-    <li><b>Azure for Starters<\b></li>
+    <li><b>Azure for Starters</b></li>
     <li>Seu segundo item da lista</li>
     <li>Seu terceiro item da lista</li>
   </div>
