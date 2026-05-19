@@ -57,7 +57,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   
 <ul>
   <div style="margin-inline: 25px;">
-    <li<b>Azure for Starters</b> - André Iacono
+    <b>Azure for Starters</b> - André Iacono
     
     <li><i>Institute:Udemy</i></li>
         
