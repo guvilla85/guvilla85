@@ -81,7 +81,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
    <li><i>📜 Certificado: [Link do Certificado](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece)</li></i>
   
         
-  *   **Formação Node.js** — Guia do Programador
+  *   **Formação Node.js** — Guia do Programador<br>
       *   *Status:* Concluído (2025)
 
 </details>
