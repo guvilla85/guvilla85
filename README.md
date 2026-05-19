@@ -63,7 +63,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
        <li><b>Length:</b> 2 hours</li>
        <li><b>Status:</b> Finished (Sept, 2021)</li>
        <li><b>Language:</b> Brazilian Portuguese</li>
-       <li><b>Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
+       <li><b> 📜 Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
        <li>Seu segundo item da lista</li>
        <li>Seu terceiro item da lista</li>
       </div>
@@ -75,9 +75,10 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <summary><b>☕ Azure (Clique para expandir)</b></summary>
   <br>
 
-  *   **Azure fundamental** — Andre Iacono
+  *   **Azure fundamental** — Andre Iacono, Udemy
       *   *Status:* Concluído (2021)
       *   *Carga Horária:* 54 horas
+      *   <li><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
       *   *Certificado:* [Link do Certificado](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece)
   *   **Formação Node.js** — Guia do Programador
       *   *Status:* Concluído (2025)
