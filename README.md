@@ -56,20 +56,20 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 <details>
   <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
   
-  <ul style="margin-inline: 25px;">
-    <br>
-    <p><b>Azure for Starters</b> - André Iacono</p>
+  <div style="margin-left: 25px; margin-top: 15px;">
+    <strong>Azure for Starters</strong> - André Iacono
     
-    <li><i>Institute:</i> Udemy</li>
-    <li><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
-    <li><b>Length:</b> 2 hours</li>
-    <li><b>Status:</b> Finished (Sept, 2021)</li>
-    <li><b>Language:</b> Brazilian Portuguese</li>
-    <!-- O link agora está em HTML correto -->
-    <li><b>Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">Link do Certificado</a></li>
-    <li>Seu segundo item da lista</li>
-    <li>Seu terceiro item da lista</li>
-  </ul>
+    <ul style="list-style-type: disc; margin-top: 10px;">
+      <li><i>Institute:</i> Udemy</li>
+      <li><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
+      <li><b>Length:</b> 2 hours</li>
+      <li><b>Status:</b> Finished (Sept, 2021)</li>
+      <li><b>Language:</b> Brazilian Portuguese</li>
+      <li><b>Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
+      <li>Seu segundo item da lista</li>
+      <li>Seu terceiro item da lista</li>
+    </ul>
+  </div>
 </details>
 
 
