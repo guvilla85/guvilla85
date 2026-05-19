@@ -63,7 +63,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
        <li><b>Length:</b> 2 hours</li>
        <li><b>Status:</b> Finished (Sept, 2021)</li>
        <li><b>Language:</b> Brazilian Portuguese</li>
-       <li><b> 📜 Certificado:</b> <a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
+       <li><b> 📜 Certificado:</b> <a href="Link" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
        <li>Seu segundo item da lista</li>
        <li>Seu terceiro item da lista</li>
       </div>
