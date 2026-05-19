@@ -27,7 +27,9 @@
 # **Courses completed**
 
 
-details>
+## 💻 Cursos da Udemy
+
+<details>
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
   <br>
 
@@ -38,6 +40,19 @@ details>
   *   **CSS Grids e Flexbox de verdade** — Origamid
       *   *Status:* Em andamento
       *   *Carga Horária:* 12 horas
+
+</details>
+
+<details>
+  <summary><b>☕ Programação Back-End (Clique para expandir)</b></summary>
+  <br>
+
+  *   **Java Completo Programação Orientada a Objetos** — Nelio Alves
+      *   *Status:* Concluído (2026)
+      *   *Carga Horária:* 54 horas
+      *   *Certificado:* [Link do Certificado](https://www.udemy.com)
+  *   **Formação Node.js** — Guia do Programador
+      *   *Status:* Concluído (2025)
 
 </details>
 
