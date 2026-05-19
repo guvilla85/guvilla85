@@ -37,6 +37,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
   <br>
 
+
   *   **Curso Web Moderno Completo com JavaScript** — Cod3r Cursos
   *   
       Status:* Concluído (2025)
@@ -53,11 +54,11 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 <details>
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
-  <br
-  <ul>
-   <li>Seu primeiro item</li>
-   <li>Seu segundo item</li>
-</ul>
+  
+              <ul>
+                  <li>Seu primeiro item</li>
+                  <li>Seu segundo item</li>
+              </ul>
 </details>
 
 
