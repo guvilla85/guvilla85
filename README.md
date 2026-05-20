@@ -110,8 +110,8 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
      </ul>
    <br>
    
-<summary><b>☕ Azure (Clique para expandir)</b></summary>
-  <br>
+
+   <br>
    <b>Azure for Starters</b> — Andre Iacono, Udemy
      <ul style="list-style-type: circle;">
        <li>✅<i>Status:</i> Concluído (2021)</li>
