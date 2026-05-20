@@ -27,7 +27,7 @@
 
 # 🎓 Meus Treinamentos e Certificações
 
-**my courses and trainings**
+**My courses and trainings / Mis cursos y capacitaciones**
 
 Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), focados no meu desenvolvimento profissional.
 
