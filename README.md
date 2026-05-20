@@ -110,7 +110,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
      </ul>
   
     <b>Azure AZ-900</b> — Andre Iacono, Udemy
-      <ul style="list-style-type: circle;">
+    <ul style="list-style-type: circle;">
          <li>✅<i>Status:</i> Concluído (2021)</li>
          <li>⌛<i>Carga Horária:</i> 54 horas</li>  
          <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
