@@ -108,8 +108,8 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
          <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
          <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
      </ul>
-  -----
-      <b>Azure AZ-900</b> — Andre Iacono, Udemy
+  
+    <b>Azure AZ-900</b> — Andre Iacono, Udemy
       <ul style="list-style-type: circle;">
          <li>✅<i>Status:</i> Concluído (2021)</li>
          <li>⌛<i>Carga Horária:</i> 54 horas</li>  
@@ -125,13 +125,6 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
      </ul>
      
-   <br> 
-
-
-    
-  *   **Formação Node.js** — Guia do Programador<br>
-      *   *Status:* Concluído (2025)
-
 </details>
 
 
