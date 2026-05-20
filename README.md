@@ -58,7 +58,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 
 
-### 💻 Azure
+## 💻 Azure
 
 <details>
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
