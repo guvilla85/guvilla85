@@ -125,7 +125,7 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
          <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
      </ul>
 
-    p>&nbsp;&nbsp;Este texto tem um duplo espaço antes de começar.</p>
+  
      
     
 </details>
