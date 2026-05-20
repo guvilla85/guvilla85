@@ -1,7 +1,7 @@
 # **Hi there** 👋
 
 ## Documentation available in
-#### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) <sup>Brazil Portuguese</sup> <p style="font-size: 20px;">Este parágrafo tem a fonte definida para 20 pixels.</p>
+#### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) <p style="font-size: 20px;">Este parágrafo tem a fonte definida para 20 pixels.</p>
 #### Argentine spanish 'castellano'
 #### American english
 
