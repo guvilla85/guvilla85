@@ -1,7 +1,7 @@
 # **Hi there** 👋
 
-## Documentation available in
-#### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) Brazilian Portuguese
+## The information below is in the following languages:
+#### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) ![Portugal](https://i.imgur.com/E0jcOK8.png) Portuguese
 #### ![Argentine spanish 'castellano'](https://i.imgur.com/JUaeeia.png) Argentine spanish 'castellano'
 #### American english
 
