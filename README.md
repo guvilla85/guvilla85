@@ -2,8 +2,8 @@
 
 ## The information below is in the following languages:
 #### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) ![Portugal](https://i.imgur.com/E0jcOK8.png) Portuguese
-#### ![Argentine spanish 'castellano'](https://i.imgur.com/JUaeeia.png) Argentine spanish 'castellano'
-#### American english
+#### ![Argentine spanish 'castellano'](https://i.imgur.com/JUaeeia.png) ![Spain](https://i.imgur.com/okShQXP.png) Spanish
+#### ![usa](https://i.imgur.com/BxYDOkO.png) ![uk](https://i.imgur.com/oeXbfs1.png) English
 
 
 
