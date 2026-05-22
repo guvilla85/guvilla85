@@ -39,8 +39,8 @@
 | Instituição                                           | Formação                                                                                                                                                                                                                       | Conclusão |
 |:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
 | E. E. "Leonor Fernandez da Silva"                           | Ensino Médio /High School/ Secundaria                                                                                                                                                                                                                   | 2005      |
-| Escola Técnica Estadual "Professor Fausto Mazzola"    | Nível Técnico em Informática para Internet  (Desenvolvimento Web)   | 2016      |
-| Universidade Virtual do Estado de São Paulo - Univesp | Bacharelado em Tecnologia da Informação com Ênfase em Análise de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Diploma%20Univesp%20-Bacharel%20TI-%20enfase%20analise%20dados.pdf)                 | 2025      |
+| Centro Paula Souza - FATEC Indaiatuba (vinculada a Universidade Estadual Paulista UNESP    | Curso Superior de Tecnologia em Informática c/ Ênfase em Redes de Computadores [:scroll:](https://i.imgur.com/4r2Dlo7.jpeg)   | 2010      |
+| Universidade Virtual do Estado de São Paulo - Univesp | Bacharelado em Tecnologia da Informação com Ênfase em Análise de Dados [:scroll:](https://i.imgur.com/4r2Dlo7.jpeg)                 | 2025      |
 | Universidade Virtual do Estado de São Paulo - Univesp | Bacharelado em Ciência de Dados (Em processo...)                                                                                                                                                                               | 2026      |
 
 ---
