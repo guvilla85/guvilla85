@@ -74,7 +74,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 
-## 💻 Azure ![Azure] (https://img.shields.io/badge/azure-%230072C6.svg)
+## 💻 Azure ![Azure](https://img.shields.io/badge/azure-%230072C6.svg)
 
 <details>
   <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
