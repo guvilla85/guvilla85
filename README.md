@@ -219,61 +219,6 @@ Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), f
 
 
 
-# **Courses completed**
-
-## **Microsoft Azure Fundamentals - 17 total hours**
-
-<details>
-  <summary>Azure for Starters | Udemy | Lenght: 2 hours</summary>       
-    Institute:Udemy;      
-    Description / Course content: Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation;     
-    Lenght: 2 hours;
-    Language: Brazilian Portuguese; 
-    Date: Sept, 12, 2021;
-    Instructors: André Iacono
- </details>
-[Certificate](https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg) <br>
-
-  
-<details>
-  <summary>Azure AZ-900 Fundamentals | Educacion IT Lenght: 15 hours</summary>               
-   Institute: Educacion IT;                                  
-   Description: Fundamentos de la Nube, IaaS, PaaS y SaaS, Modelos de nube pública, privada e híbrida, Servicios principales de Azure, Componentes y Arquitectura, Herramientas de Administración, Seguridad, Privacidad y Confianza, Azure Identity, Trabajar con monitoreos e informes, Planificación y gestión de costos    
-   Lenght: 15 hours;
-   Language: Spanish Argentina; 
-   Date: Mar, 11, 2023;
-   Instructors: Emiliano Flecha
-</details>
-[Certificate](https://live.staticflickr.com/65535/53700792104_3a4bfe6be0_h.jpg) <br>
-  
-  
-## **QA Manual - 26 total hours**
-
-<details>
-  <summary>Testing QA Manual | Coderhouse | Lenght: 26 hours</summary>       
-   Institute: Coderhouse;                                  
-   Description / Course content: 1. ¿Qué es el testing? / 2. ¿Qué significa ser un Tester? / 3. ¿Cuáles son los distintos tipos de testing? / 4. El testing en el desarrollo de software / 5. Testing en Agilidad / 6. Defectos en el testing / 7. ¿Cómo se prepara para hacer las pruebas? / 8. Ejecución de pruebas / 9. Pruebas de aplicaciones web / 10. Pruebas de aplicaciones mobile / 11. API Testing / 12. Pruebas No funcionales / 13. Proyección profesional;;    
-   Lenght: 26 hours;    
-   Date: Jan/31/2023; 
-   Instructors: Constanza Llanos
-</details>
-[Certificate](https://www.coderhouse.com/ar/certificados/63f284247ec8c4000f7be74b)
-
-## Cybersecurity
-
-## Amazon AWS 
-
-## Windows Server - Active Directory (AD DS)
-
-## Network
-
-## Programming Language 
-
-# **Certifications**
-
-
-
-
 
 <!--
 **guvilla85/guvilla85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
