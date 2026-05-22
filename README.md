@@ -37,7 +37,9 @@
 **My courses and trainings / Mis cursos y capacitaciones**
 
 Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), focados no meu desenvolvimento profissional.
+
 Aquí está la lista de los cursos y capacitaciones que he realizado (o estoy cursando), enfocados en mi desarrollo profesional.
+
 Here is the list of courses and training programs I have completed (or am currently taking)
 
 
