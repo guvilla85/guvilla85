@@ -48,15 +48,15 @@
 
 # 🎓 Certificações
 
-**My courses and trainings / Mis cursos y capacitaciones**
+| Institute / Vendor                                           | Certification Name                                                                                                                                                                                                                       | Conclusão |
+|:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
+| E. E. "Leonor Fernandez da Silva"                           | Ensino Médio /High School/ Secundaria                                                                                                                                                                                                                   | 2005      |
+| Escola Técnica Estadual "Professor Fausto Mazzola"    | Nível Técnico em Informática para Internet  (Desenvolvimento Web)   | 2016      |
+| Universidade Virtual do Estado de São Paulo - Univesp | Bacharelado em Tecnologia da Informação com Ênfase em Análise de Dados [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Diploma%20Univesp%20-Bacharel%20TI-%20enfase%20analise%20dados.pdf)                 | 2025      |
+| Universidade Virtual do Estado de São Paulo - Univesp | Bacharelado em Ciência de Dados (Em processo...) 
+| Cisco | CCNA 301-400                                                                                                                                                                                  | 2023      |
 
-Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), focados no meu desenvolvimento profissional.
-
-Aquí está la lista de los cursos y capacitaciones que he realizado (o estoy cursando), enfocados en mi desarrollo profesional.
-
-Here is the list of courses and training programs I have completed (or am currently taking)
-
-
+---
 
 # 🎓 Meus Treinamentos e cursos
 
