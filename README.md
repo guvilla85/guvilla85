@@ -30,9 +30,21 @@
 
 #### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies 🌱. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
 
+---
+
+# 🎓 Certificações
+
+**My courses and trainings / Mis cursos y capacitaciones**
+
+Aqui está a lista dos cursos e treinamentos que concluí (ou estou cursando), focados no meu desenvolvimento profissional.
+
+Aquí está la lista de los cursos y capacitaciones que he realizado (o estoy cursando), enfocados en mi desarrollo profesional.
+
+Here is the list of courses and training programs I have completed (or am currently taking)
 
 
-# 🎓 Meus Treinamentos e Certificações
+
+# 🎓 Meus Treinamentos e cursos
 
 **My courses and trainings / Mis cursos y capacitaciones**
 
