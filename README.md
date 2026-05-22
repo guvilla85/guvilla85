@@ -139,14 +139,14 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 <details>
-  <summary><b>☕ QA Manuel</b></summary>
+  <summary><b>☕ QA Manual</b></summary>
   <br>
   <b>Testing QA Manual</b> — Constanza Llanos, Coderhouse
      <ul style="list-style-type: circle;">
          <li>✅<i>Status:</i> Concluído (2021)</li>
          <li>⌛<i>Carga Horária:</i> 54 horas</li>  
          <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
-         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
+         <li>📜<i>Certificado: </i><a href="https://i.imgur.com/Xvush6q.png"> Click here to view certificate</a></li> 
      </ul>
   <br>   
   <b>AZ900</b> — Andre Iacono, Udemy
