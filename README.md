@@ -55,7 +55,7 @@
 |  Sophos                         | Sophos Firewall v19.5 - Support Engineer [📜](https://drive.google.com/file/d/1E_IwvGanMIZdcxJzccedvABV-YUlsDqt/view?usp=sharing)                                                                                                                                                                                                                 | 2023      |
 | Sophos    | Zero Trust Network Access [📜](https://drive.google.com/file/d/1WXq2uUUix0x-TDbh6AvUy1PdgzT3dniA/view?usp=sharing)     | 2022      |
 
-| Cisco    | CCNA 301-400       | In conclusion      |
+| Cisco    | CCNA 301-400      | In conclusion       |
 
 ---
 
