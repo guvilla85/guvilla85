@@ -40,7 +40,7 @@
 |:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
 | E. E. "Leonor Fernandes da Silva"                           | Ensino Médio /High School/ Secundaria                                                                                                                                                                                                                   | 2005      |
 | Centro Paula Souza - FATEC Indaiatuba (vinculada a Universidade Estadual Paulista UNESP    | Curso Superior de Tecnologia em Informática c/ Ênfase em Redes de Computadores [:scroll:](https://i.imgur.com/4r2Dlo7.jpeg)   | 2010      |
-| AVM Faculdade Integrada (Faculdade Unyleya) | Curso de Pós-Graduação _Lato Sensu_ Especialização em Banco de Dados <li><b> 📜 Certificado:</b> <a href="Link" target="_blank">https://i.imgur.com/Bjge1Au.jpeg/</a></li>                 | 2015      |
+| AVM Faculdade Integrada (Faculdade Unyleya) | Curso de Pós-Graduação _Lato Sensu_ Especialização em Banco de Dados [📜](https://i.imgur.com/Bjge1Au.jpeg)                  | 2015      |
 
 
 ---
