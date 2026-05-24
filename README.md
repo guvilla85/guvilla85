@@ -79,7 +79,7 @@ Here is the list of courses and training programs I have completed (or am curren
 ## 💻 Azure | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg)
 
 <details>
-  <summary><b>☕ Azure (Clique para expandir)</b></summary>
+  <summary><b>🚀 Azure (Clique para expandir)</b></summary>
   <br>
   <b>Azure for Starters</b> — Andre Iacono, Udemy
      <ul style="list-style-type: circle;">
@@ -100,7 +100,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 <details>
-  <summary><b>☕ QA Manual</b></summary>
+  <summary><b>🚀 QA Manual</b></summary>
   <br>
   <b>Testing QA Manual</b> — Constanza Llanos, Coderhouse
      <ul style="list-style-type: circle;">
@@ -119,7 +119,7 @@ Here is the list of courses and training programs I have completed (or am curren
 ## 💻 Network | ![Network](https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/24x24/environment_network.png)
 
 <details>
-  <summary><b>☕ Switching</b></summary>
+  <summary><b>🚀 Switching</b></summary>
   <br>
   <b>Workshop Spanning Three</b> — Gustavo Kalau, Gustavo Kalau Treinamentos
      <ul style="list-style-type: circle;">
