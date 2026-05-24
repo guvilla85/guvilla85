@@ -232,6 +232,26 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 
+---
+
+## 💻 Network | ![Network](https://cdn.iconscout.com/icon/premium/png-512-thumb/network-switch-icon-svg-download-png-14432799.png?f=webp&w=256)
+
+<details>
+  <summary><b>☕ Switching</b></summary>
+  <br>
+  <b>Workshop Spanning Three</b> — Gustavo Kalau, Gustavo Kalau Treinamentos
+     <ul style="list-style-type: circle;">
+         <li>✅<i>Status:</i> Finished (2024)</li>
+         <li>⌛<i>Carga Horária:</i> 2hrs</li>
+         <li>🌐<i>Language:</i> Spanish <img src="https://rene-crevel.com/images/country-flag-16X16/Argentina.png" alt="argenitna-flag"></li>
+         <li>📝<i>Course syllabus: </i><a href="https://drive.google.com/file/d/115IDxdZwRokja-tZ3Lp1EWLXoNxIGLoa/view?usp=sharing" target="_blank"> Click here to view the course syllabus.</a></li> 
+         <li>📜<i>Certificate: </i><a href="https://i.imgur.com/Xvush6q.png" target="_blank"> Click here to view certificate</a></li> 
+     </ul>
+  <br>   
+        
+</details>
+
+
 
 
 
