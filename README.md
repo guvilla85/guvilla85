@@ -86,7 +86,7 @@ Here is the list of courses and training programs I have completed (or am curren
          <li>✅<i>Status:</i> Concluído (2021)</li>
          <li>⌛<i>Workload:</i> 2hrs</li>
          <li>🌐<i>Language:</i> Portuguese <img src="https://rene-crevel.com/images/country-flag-16X16/Brazil.png" alt="brasil-flag"> <img src="https://rene-crevel.com/images/country-flag-16X16/Portugal.png" alt="portugal-flag"></li> 
-         <li>📝<i>Course syllabus: </i><a https://docs.google.com/document/d/1dxlPfB1EM-eapbLJJIjLatrzyOzX-Q6SM7XhlFOGj9M/edit?usp=sharing" target="_blank"> Click here to view the course syllabus.</a></li>  
+         <li>📝<i>Course syllabus: </i><a href="https://docs.google.com/document/d/1dxlPfB1EM-eapbLJJIjLatrzyOzX-Q6SM7XhlFOGj9M/edit?usp=sharing" target="_blank"> Click here to view the course syllabus.</a></li>   
          <li>📜<i>Certificate: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
      </ul>
   <br>   
