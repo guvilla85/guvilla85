@@ -179,7 +179,7 @@ Here is the list of courses and training programs I have completed (or am curren
      <ul style="list-style-type: circle;">
          <li>✅<i>Status:</i> Finished (2024)</li>
          <li>⌛<i>Workload::</i> 2hrs</li>
-         <li>🌐<i>Language:</i> Spanish <img src="https://rene-crevel.com/images/country-flag-16X16/Argentina.png" alt="argenitna-flag"></li>
+         <li>🌐<i>Language:</i> Portuguese <img src="https://rene-crevel.com/images/country-flag-16X16/Brazil.png" alt="brasil-flag"> img src="https://rene-crevel.com/images/country-flag-16X16/Portugal.png" alt="portugal-flag"></li> 
          <li>📝<i>Course syllabus: </i><a href="https://drive.google.com/file/d/115IDxdZwRokja-tZ3Lp1EWLXoNxIGLoa/view?usp=sharing" target="_blank"> Click here to view the course syllabus.</a></li> 
          <li>📜<i>Certificate: </i><a href="https://i.imgur.com/Xvush6q.png" target="_blank"> Click here to view certificate</a></li> 
      </ul>
