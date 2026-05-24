@@ -163,73 +163,8 @@ Here is the list of courses and training programs I have completed (or am curren
          <li>📝<i>Course syllabus: </i><a href="https://drive.google.com/file/d/115IDxdZwRokja-tZ3Lp1EWLXoNxIGLoa/view?usp=sharing" target="_blank"> Click here to view the course syllabus.</a></li> 
          <li>📜<i>Certificate: </i><a href="https://i.imgur.com/Xvush6q.png" target="_blank"> Click here to view certificate</a></li> 
      </ul>
-  <br>   
-  <b>AZ900</b> — Andre Iacono, Udemy
-     <ul style="list-style-type: circle;">
-         <li>✅<i>Status:</i> Concluído (2021)</li>
-         <li>⌛<i>Carga Horária:</i> 54 horas</li>  
-         <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
-         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
-     </ul>
-  <br>   
-  <b>AZ500</b> — Andre Iacono, Udemy
-     <ul style="list-style-type: circle;">
-         <li>✅<i>Status:</i> Concluído (2021)</li>
-         <li>⌛<i>Carga Horária:</i> 54 horas</li>  
-         <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
-         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
-     </ul>
-
-      
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<details>
-  <summary><b>☕ Programação Back-End (Clique para expandir)</b></summary>
   <br>
-
-  *   **Java Completo Programação Orientada a Objetos** — Nelio Alves
-      *   *Status:* Concluído (2026)
-      *   *Carga Horária:* 54 horas
-      *   *Certificado:* [Link do Certificado](https://www.udemy.com)
-  *   **Formação Node.js** — Guia do Programador
-      *   *Status:* Concluído (2025)
-
 </details>
-
-
-<details>
-  <summary><b>☕ Azure (Clique para expandir)</b></summary>
-  <br>
-
-  *   ** Azure for Starters ** — André Iacono
-  *   
-      *   * Plataform: * Udemy
-          * 
-      *   * Status: * Concluído (2021)
-          * 
-      *   *Carga Horária:* 2 hours
-      *   
-      *   *Certificado:* [Link visualizacao](https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/)
-  *   **Formação Node.js** — Guia do Programador
-      *   *Status:* Concluído (2025)
-
-</details>
-
 
 
 ---
