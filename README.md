@@ -79,72 +79,18 @@ Here is the list of courses and training programs I have completed (or am curren
 ## 💻 Azure | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg)
 
 <details>
-  <summary><b>🚀 Desenvolvimento Web & Front-End (Clique para expandir)</b></summary>
-  <br>
-
-
-  *   **Curso Web Moderno Completo com JavaScript** — Cod3r Cursos
-  *   
-      Status:* Concluído (2025)
-      
-      Carga Horária:* 97 horas
-      
-      Principais aprendizados:* JS, Node, React, Webpack.
-  *   **CSS Grids e Flexbox de verdade** — Origamid
-      *   *Status:* Em andamento
-      *   *Carga Horária:* 12 horas
-
-</details>
-
-
-
-<details>
-  <summary><b>🚀 Azure - Fundamentos (Clique para expandir)</b></summary>
-  <br>
-      <div style="margin-right: 75px;">
-       <b>Azure for Starters</b> - André Iacono    
-       <li><i>Institute:</i> Udemy</li>
-       <li><b>Description / Course content:</b> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li>
-       <li><b>Length:</b> 2 hours</li>
-       <li><b>Status:</b> Finished (Sept, 2021)</li>
-       <li><b>Language:</b> Brazilian Portuguese</li>
-       <li><b> 📜 Certificado:</b> <a href="Link" target="_blank">https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece/</a></li>
-       <li>Seu segundo item da lista</li>
-       <li>Seu terceiro item da lista</li>
-      </div>
-    </details>
-
-
-
-<details>
   <summary><b>☕ Azure (Clique para expandir)</b></summary>
   <br>
   <b>Azure for Starters</b> — Andre Iacono, Udemy
      <ul style="list-style-type: circle;">
          <li>✅<i>Status:</i> Concluído (2021)</li>
          <li>⌛<i>Carga Horária:</i> 54 horas</li>
-         <li>✅<i>Language:</i>Portuguese 🇧🇷 🇵🇹</li>
+         <li>🌐<i>Language:</i> Portuguese <img src="https://rene-crevel.com/images/country-flag-16X16/Brazil.png" alt="brasil-flag"> <img src="https://rene-crevel.com/images/country-flag-16X16/Portugal.png" alt="portugal-flag"></li> 
          <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
          <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
      </ul>
   <br>   
-  <b>AZ900</b> — Andre Iacono, Udemy
-     <ul style="list-style-type: circle;">
-         <li>✅<i>Status:</i> Concluído (2021)</li>
-         <li>⌛<i>Carga Horária:</i> 54 horas</li>  
-         <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
-         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
-     </ul>
-  <br>   
-  <b>AZ500</b> — Andre Iacono, Udemy
-     <ul style="list-style-type: circle;">
-         <li>✅<i>Status:</i> Concluído (2021)</li>
-         <li>⌛<i>Carga Horária:</i> 54 horas</li>  
-         <li>📝<i>Description / Course content:</i> Overview about Microsoft Azure, Microsoft Azure Global Infrastructure, Subscription Azure, Resource Group, Billing Alert, VM creation</li> 
-         <li>📜<i>Certificado: </i><a href="https://www.udemy.com/certificate/UC-f8662d46-f6ac-4fb3-b0d9-dfa82dae0ece" target="_blank"> Click here to view certificate</a></li> 
-     </ul>
-
-    
+     
 </details>
 
 
