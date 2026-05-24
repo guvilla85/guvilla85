@@ -147,6 +147,7 @@ Here is the list of courses and training programs I have completed (or am curren
     
 </details>
 
+
 ---
 
 ## 💻 QA - Quality Assurance
