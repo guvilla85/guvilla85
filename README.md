@@ -234,7 +234,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 ---
 
-## 💻 Network | ![Network](https://cdn.iconscout.com/icon/premium/png-512-thumb/network-switch-icon-svg-download-png-14432799.png?f=webp&w=256)
+## 💻 Network | ![Network](https://d1nhio0ox7pgb.cloudfront.net/_img/g_collection_png/standard/32x32/environment_network.png)
 
 <details>
   <summary><b>☕ Switching</b></summary>
