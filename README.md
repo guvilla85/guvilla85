@@ -5,9 +5,9 @@
 #### ![Argentine spanish 'castellano'](https://i.imgur.com/JUaeeia.png) ![Spain](https://i.imgur.com/okShQXP.png) Spanish
 #### ![usa](https://i.imgur.com/BxYDOkO.png) ![uk](https://i.imgur.com/oeXbfs1.png) English
 
+---
 
-
-## About me 
+# 👤About me 
 #### I am Gustavo Almeida Villa, a Computer Networks professional currently specializing in Cybersecurity, Cloud Infrastructure, and Identity and Access Management (IAM), alongside automation scripting and programming. Driven by innovation, I am highly interested in AI and Machine Learning tools, with a specific focus on how to secure them against emerging threats.
 #### Beyond the screen, I am deeply fascinated by astronomy 🔭 and the mysteries of the universe, ancient civilizations, world history, and the intriguing history of secret societies.
 
