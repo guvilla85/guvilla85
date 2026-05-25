@@ -12,6 +12,9 @@
 
 #### Beyond the screen, I am deeply fascinated by astronomy 🔭 and the mysteries of the universe, ancient civilizations, world history, and the intriguing history of secret societies.
 
+#### Below are the completed courses that I take in my free time, with the aim of acquiring knowledge and certifying myself in various technologies 🌱. The vast majority are based on online courses, as I can study and practice labs at dynamic times. I try to extract as much knowledge as possible and absorb the teachings.
+
+
 ---
 # 📑 Contacts and my Currículum Vitae / Resumé
 
