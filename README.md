@@ -11,7 +11,7 @@
 #### I am Gustavo Almeida Villa, a Computer Networks professional currently specializing in Cybersecurity, Cloud Infrastructure, and Identity and Access Management (IAM), alongside automation scripting and programming. Driven by innovation, I am highly interested in AI and Machine Learning tools, with a specific focus on how to secure them against emerging threats.
 #### Beyond the screen, I am deeply fascinated by astronomy 🔭 and the mysteries of the universe, ancient civilizations, world history, and the intriguing history of secret societies.
 
-#  🎓 Contacts and my Currículum Vitae / Resumé
+# 📑 Contacts and my Currículum Vitae / Resumé
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gustavo-almeida-villa-76117037)
