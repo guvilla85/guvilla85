@@ -47,7 +47,7 @@
 ---
 
 
-# 🎓 Certificações
+# 📜 Certificações
 
 **Certifications / Certificaciones**
 
