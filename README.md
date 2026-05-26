@@ -5,7 +5,7 @@
 
   <!-- Textos com fontes diferentes -->
   <div>
-    <p style="font-family: 'Arial', sans-serif; font-size: 38px; font-weight: bold; margin: 0;">
+    <p style="font-family: 'Arial', sans-serif; font-size: 38px; font-weight: bold; font-style: italic; margin: 0;">
       Hi there!
     </p>
     <p style="font-family: 'Courier New', monospace; font-size: 18px; margin: 5px 0 0 0;">
