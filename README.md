@@ -138,7 +138,7 @@ Here is the list of courses and training programs I have completed (or am curren
 ---
 
 ## 💻 Network | ![Network](https://i.imgur.com/5dQhNru.png)
-)
+
 
 <details>
   <summary><b>🚀 Switching</b></summary>
