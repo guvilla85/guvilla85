@@ -6,6 +6,7 @@
   <!-- Textos com fontes diferentes -->
   <div>
     <p style="font-family: 'Arial', sans-serif; font-size: 28px; font-weight: bold; margin: 0;">
+    <p style="font-family: 'Georgia', sans-serif; font-size: 28px; font-weight: bold; font-style: italic; margin: 0;">
       Este é o texto principal em negrito e grande!
     </p>
     <p style="font-family: 'Courier New', monospace; font-size: 16px; margin: 5px 0 0 0;">
