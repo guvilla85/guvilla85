@@ -136,6 +136,24 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 
+---
+
+
+## 💻 Sophos | ![Network](https://i.imgur.com/kOckmbf.png)
+
+<details>
+  <summary><b>🚀 Sophos Firewall</b></summary>
+  <br>
+  <b>Workshop Spanning Three</b> — Gustavo Kalau, Gustavo Kalau Treinamentos
+     <ul style="list-style-type: circle;">
+         <li>✅<i>Status:</i> Finished (2024)</li>
+         <li>⌛<i>Workload::</i> 2hrs</li>
+         <li>🌐<i>Language:</i> Portuguese <img src="https://rene-crevel.com/images/country-flag-16X16/Brazil.png" alt="brasil-flag"> <img src="https://rene-crevel.com/images/country-flag-16X16/Portugal.png" alt="portugal-flag"></li> 
+         <li>📝<i>Course syllabus: </i><a href="https://drive.google.com/file/d/1M-6c9o8zQz10itUz7F9zW5fAXKTqQKf2/view?usp=sharing" target="_blank"> Click here to view the course syllabus</a></li> 
+         <li>📜<i>Certificate: </i><a href="https://drive.google.com/file/d/1M-6c9o8zQz10itUz7F9zW5fAXKTqQKf2/view?usp=sharing" target="_blank"> Click here to view certificate</a></li> 
+     </ul>
+  <br>        
+</details>
 
 
 
