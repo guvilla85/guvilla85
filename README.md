@@ -139,7 +139,7 @@ Here is the list of courses and training programs I have completed (or am curren
 ---
 
 
-## 💻 Sophos | ![Network](https://i.imgur.com/kOckmbf.png)
+## 💻 Sophos | ![Network](https://i.imgur.com/1dYJFq1.png)
 
 <details>
   <summary><b>🚀 Sophos Firewall</b></summary>
