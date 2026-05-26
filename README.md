@@ -1,6 +1,5 @@
-# **Hi there** 👋 
-<!-- Exibindo um GIF da internet (usando a URL direta) -->
-<img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" alt="Exemplo de GIF animado">
+# **Hi there** 👋 <img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" style="width: 60px; height: auto; display: block;">
+
 
 ## The information below is in the following languages:
 #### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) ![Portugal](https://i.imgur.com/E0jcOK8.png) Portuguese
