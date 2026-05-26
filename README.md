@@ -176,7 +176,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 ---
 
-## 💻 Fortinet | ![Network](https://i.imgur.com/41Wz4Sl.png)
+## 💻 Fortinet | ![Network](https://i.imgur.com/ZnNFQN1.png)
 
 <details>
   <summary><b>🚀 Cybersecurity</b></summary>
