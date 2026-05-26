@@ -1,9 +1,23 @@
-# **Hi there** 👋 <img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" style="width: 60px; height: auto; display: block;">
+<div style="display: flex; align-items: center; gap: 20px;">
+  
+  <!-- GIF sem controles (autoplay e loop) -->
+  <img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" alt="Exemplo de GIF" style="width: 200px; height: auto;">
 
-<div style="display: flex; align-items: center; gap: 15px;">
-    <p>Hi there!</p>
-    <img src="https://cdn.pixabay.com/animation/2023/04/14/08/38/08-38-03-528_512.gif" alt="Descrição do GIF" style="width: 150px; height: auto;">
+  <!-- Textos com fontes diferentes -->
+  <div>
+    <p style="font-family: 'Arial', sans-serif; font-size: 28px; font-weight: bold; margin: 0;">
+      Este é o texto principal em negrito e grande!
+    </p>
+    <p style="font-family: 'Courier New', monospace; font-size: 16px; margin: 5px 0 0 0;">
+      Este é o texto secundário com outra fonte.
+    </p>
+  </div>
+
 </div>
+
+
+
+
 
 ## The information below is in the following languages:
 #### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) ![Portugal](https://i.imgur.com/E0jcOK8.png) Portuguese
