@@ -26,6 +26,12 @@
 
 ---
 
+# Disclamimer
+#### The images and logos featured on this GitHub Pages site are solely for illustrative purposes and to visually represent the training programs and courses I have completed. They are not being used for any commercial purposes.
+
+
+---
+
 # 👤About me 
 #### I am Gustavo Almeida Villa, a Computer Networks professional currently specializing in Cybersecurity, Cloud Infrastructure, and Identity and Access Management (IAM), alongside automation scripting and programming. Driven by innovation, I am highly interested in AI and Machine Learning tools, with a specific focus on how to secure them against emerging threats.
 
@@ -97,7 +103,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 
-## 💻 Azure | ![Azure](https://i.imgur.com/HFUjjfh.png)
+## 💻 Microsoft Azure | ![Azure](https://i.imgur.com/HFUjjfh.png)
 
 <details>
   <summary><b>🚀 Azure (Clique para expandir)</b></summary>
