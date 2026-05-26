@@ -178,7 +178,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 
 
-
+<img src="https://ey.to" alt="Contador de visualizações">
 
 <!--
 **guvilla85/guvilla85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
