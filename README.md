@@ -1,4 +1,7 @@
-# **Hi there** 👋  ![Network](https://cdnl.iconscout.com/lottie/premium/preview-watermark/pequeno-robo-azul-dizendo-ola-com-a-mao-acenando-animation-gif-download-4246714.mp4)
+# **Hi there** 👋 <video autoplay loop muted playsinline width="600">
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/pequeno-robo-azul-dizendo-ola-com-a-mao-acenando-animation-gif-download-4246714.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 ## The information below is in the following languages:
 #### ![Brazil Portuguese](https://i.imgur.com/A7EojIl.png) ![Portugal](https://i.imgur.com/E0jcOK8.png) Portuguese
