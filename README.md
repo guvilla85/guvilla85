@@ -117,7 +117,7 @@ Here is the list of courses and training programs I have completed (or am curren
 
 ---
 
-## 💻 QA - Quality Assurance | ![QA](https://i.imgur.com/nG2o4ty.png)
+## 💻 QA - Quality Assurance | ![QA](https://i.imgur.com/sVnjN4F.png)
 
 
 <details>
